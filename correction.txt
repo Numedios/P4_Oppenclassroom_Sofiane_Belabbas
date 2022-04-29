@@ -1,0 +1,30 @@
+
+
+
+-Ajout d'un vrais titre dans la balise <title>
+
+-Ajout d'un balise headeur, footer
+
+-enlever le css du html ** a enlever 
+
+- Changer couleur <h2 class="mg-md text-center tc-white">
+mettre une couleur plus contrasté 
+
+
+-class="img-responsive portfolio-thumb" changer la taille de la photo
+en version mobile pour la centrer et centre le hoover aussi
+
+- changer ce texte pour acceder a la page 2 <a href="page2.html">
+
+- recadrer <a href="index.html">Accueil</a> dans la page 2 qui sors de l'ecran
+
+- En css creer des class pour les ellement qui se repete + de 2   color: rgba(255, 255, 255, .6); ligne 136 , 153 ,115 ...
+
+- gestion des media query qui se repete pour 2 taille differente l 859,853
+
+
+- <html lang="Default"> mettre en langue francaise ?
+
+- corriger le validateur html 
+
+- corriger le validateur css 
