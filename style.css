@@ -366,7 +366,7 @@ a:hover {
     .site-navigation {
         position: absolute;
         top: 50%;
-        right: 100px;
+        right: 10%;
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
     }
