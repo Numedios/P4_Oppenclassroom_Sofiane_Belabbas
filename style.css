@@ -7,6 +7,24 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+
+/*  Ajout*/
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 10px;
+}
+
+input{
+    width: 40%;
+
+}
+
+
+/* Fin Ajout*/
+
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -534,6 +552,7 @@ a[data-lightbox] {
     position: relative;
     display: block;
     text-align: center;
+ 
 }
 
 a[data-lightbox]:hover::before {
@@ -656,6 +675,9 @@ a {
 
 .container {
     max-width: 1000px;
+    display: flex; /* change */
+    justify-content: center;
+
 }
 
 .hero-bloc-text {
@@ -783,7 +805,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important; /* */ 
 }
 
 .btn-atomic-tangerine {
