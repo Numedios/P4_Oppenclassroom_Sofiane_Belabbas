@@ -18,6 +18,11 @@ body {
 
 input{
     width: 40%;
+}
+
+.ges_form {
+    display: flex;
+    justify-content: center;
 
 }
 
@@ -675,8 +680,6 @@ a {
 
 .container {
     max-width: 1000px;
-    display: flex; /* change */
-    justify-content: center;
 
 }
 
@@ -805,7 +808,7 @@ h4 {
 }
 
 .tc-white {
-    color: white!important; /* */ 
+    color: white!important; /* change */ 
 }
 
 .btn-atomic-tangerine {
